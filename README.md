@@ -1,5 +1,6 @@
 # MySQL_project
-##Introduction 
+
+## Introduction 
 
 ## Tools and Technologies Used
 1) MySQL Workbench
