@@ -9,4 +9,6 @@ This project entailed the analysis and optimization of a database that combined 
 3) SQL Joins
 4) SQL Aggregate Functions
 5) Database Views
-6) Triggers
+
+## Website Performance 
+
