@@ -11,4 +11,6 @@ This project entailed the analysis and optimization of a database that combined 
 5) Database Views
 
 ## Website Performance 
+The objective is to gain a comprehensive understanding of the web pages that attract the highest user engagement, enabling us to strategically enhance our business. This analysis serves various use cases, including identifying the most frequently viewed pages by our customers, pinpointing the primary entry points to our website (the first impressions for users), and evaluating how these pages contribute to meeting our business objectives.
+
 
